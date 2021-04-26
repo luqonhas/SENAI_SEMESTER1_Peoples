@@ -62,7 +62,7 @@ Sprint responsible for developing the modeling of a relational database, in this
 Sprint responsible for the development of the entire structure behind the application, where **C#** was used as the *main language* for this project which also had other technologies and resources for its development, such as: **.NET**, the **WEB API** and among others *Frameworks* and *Models*.
 
 
-* _ **SPRINT 3 - <ins>POSTMAN** _ </ins> 📰 <br>
+* _**SPRINT 3 - <ins>POSTMAN**_</ins> 📰 <br>
 Sprint responsible for the development of the collections organization within **POSTMAN**, which is where we receive the *requests* made in the BACK-END and which is *returned* to us by the POSTMAN program the required values.
 <br>
 <div id = "tec"/>
@@ -75,7 +75,7 @@ Here are all the technologies (both programs used, as well as methods and good p
 
 <br>
 
-* _ **DATABASE** _ 🎲
+* _**DATABASE**_ 🎲
    * **<ins> Microsoft SQL Server**</ins> : Relational database management system (DBMS);
    * **<ins>SQL Server Management Studio**</ins> : Software used to be able to connect with the type of SQL (SSMS);
    * **<ins>DDL**</ins> : Data Definition Language that is used to create, modify and remove tables in the Database;
@@ -84,7 +84,7 @@ Here are all the technologies (both programs used, as well as methods and good p
 
 <br>
 
-* _ **BACK-END** _ 🔙
+* _**BACK-END**_ 🔙
   * **<ins>Scrum Methodology**</ins> : Methodology used to separate tasks into scopes (sprints), such as the DATABASE, BACK-END and POSTMAN;
   * **<ins>PascalCase and camelCase**</ins> : Good practices used to organize the code better visually;
   * **<ins>C# Language**</ins> : Main programming language used in the project's BACK-END;
