@@ -1,4 +1,4 @@
-  <h2 align="center">Project E-Players</h2>
+  <h2 align="center">PROJECT PEOPLES</h2>
 
   <p align="center">
     Project that seeks to bring an API that <br>contains the data of all employees! 👥
