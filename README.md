@@ -54,7 +54,7 @@ This project was divided into a few sprints to be able to organize it properly t
 There will be a total of 3 development sprints:
 
 
-* _**SPRINT 1 - <ins>DATABASE**_</ins> 🎨<br>
+* _**SPRINT 1 - <ins>DATABASE**_</ins> 🎲<br>
 Sprint responsible for developing the modeling of a relational database, in this case, *Microsoft SQL Server* will be used. The modeling will have the *conceptual model*, *logical* and *physical*. The part of the Scripts will be used the segregations **DDL** (Creating tables), **DML** (Inserting records in tables) and **DQL** (Selection and reading of data) for the configuration of DATABASE according to the models.
 
 
