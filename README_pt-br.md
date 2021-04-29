@@ -25,7 +25,7 @@ Seja direcionado para a pasta de BACK-END, BANCO DE DADOS ou das requisições d
 <a href="https://github.com/luqonhas/SENAI_SEMESTER2_Peoples/tree/main/Scripts"><strong> Ver BANCO DE DADOS
 »</strong></a>
 <br>
-<a href="https://github.com/luqonhas/SENAI_SEMESTER2_Peoples/tree/main/Requisitions"><strong> Ver Requisições do POSTMAN
+<a href="https://github.com/luqonhas/SENAI_SEMESTER2_Peoples/tree/main/Requisitions"><strong> Ver REQUISIÇÕES DO POSTMAN
 »</strong></a>
 <br>
 <br>
