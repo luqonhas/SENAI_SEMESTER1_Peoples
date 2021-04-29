@@ -25,7 +25,7 @@ Be directed to the BACK-END, DATABASE or POSTMAN requisitions folder.
 <a href="https://github.com/luqonhas/SENAI_SEMESTER2_Peoples/tree/main/Scripts"><strong> View DATABASE
 »</strong></a>
 <br>
-<a href="https://github.com/luqonhas/SENAI_SEMESTER2_Peoples/tree/main/Requisitions"><strong> View POSTMAN Requests
+<a href="https://github.com/luqonhas/SENAI_SEMESTER2_Peoples/tree/main/Requisitions"><strong> View POSTMAN REQUESTS
 »</strong></a>
 <br>
 <br>
