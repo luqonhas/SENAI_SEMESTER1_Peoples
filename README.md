@@ -1,9 +1,9 @@
-  <h2 align="center">PROJECT PEOPLES</h2>
+  <h2 align="center">PROJETO PEOPLES</h2>
 
   <p align="center">
-    Project that seeks to bring an API that <br>contains the data of all employees! 👥
+    Projeto que busca trazer uma API que contenha <br>os dados de todos os funcionários! 👥
     <br />
-    <a href="https://github.com/luqonhas/SENAI_SEMESTER2_Peoples"><strong> View Repository
+    <a href="https://github.com/luqonhas/SENAI_SEMESTER2_Peoples"><strong> Ver Repositório
     »</strong></a>
     <br />
     <br />
@@ -11,92 +11,92 @@
   </p>
 </p>
 
-## Translations 👅
-**Portuguese** version available [here](https://github.com/luqonhas/SENAI_SEMESTER2_Peoples/blob/master/README_pt-br.md).
+## Traduções 👅
+Versão em **Inglês** disponível [aqui](https://github.com/luqonhas/SENAI_SEMESTER2_Peoples/blob/master/README.md).
 <br>
 <br>
 
-## Folders 📚
-Be directed to the BACK-END, DATABASE or POSTMAN requisitions folder.
+## Pastas 📚
+Seja direcionado para a pasta de BACK-END, BANCO DE DADOS ou das requisições do POSTMAN.
 <br />
-<a href="https://github.com/luqonhas/SENAI_SEMESTER2_Peoples/tree/main/Backend"><strong> View BACK-END
+<a href="https://github.com/luqonhas/SENAI_SEMESTER2_Peoples/tree/main/Backend"><strong> Ver BACK-END
 »</strong></a>
 <br />
-<a href="https://github.com/luqonhas/SENAI_SEMESTER2_Peoples/tree/main/Scripts"><strong> View DATABASE
+<a href="https://github.com/luqonhas/SENAI_SEMESTER2_Peoples/tree/main/Scripts"><strong> Ver BANCO DE DADOS
 »</strong></a>
 <br>
-<a href="https://github.com/luqonhas/SENAI_SEMESTER2_Peoples/tree/main/Requisitions"><strong> View POSTMAN REQUESTS
+<a href="https://github.com/luqonhas/SENAI_SEMESTER2_Peoples/tree/main/Requisitions"><strong> Ver REQUISIÇÕES DO POSTMAN
 »</strong></a>
 <br>
 <br>
 
-## Repository Map 🗺️
+## Mapa do Repositório 🗺️
 
-* [About the Project 🔍](#about)
-* [Development Process 📈](#process)
-* [Technologies Used 🤖](#tec)
-* [Contact! 🎉](#contact)
+* [Sobre o Projeto 🔍](#about)
+* [Processo de Desenvolvimento 📈](#process)
+* [Tecnologias Utilizadas 🤖](#tec)
+* [Entre em Contato! 🎉](#contact)
 <br>
 <div id='about'/>
 
-## About the Project 🔍
-In this project it was necessary to develop an *API*, where it is possible to search and find employees of the company Peoples with their due data.
+## Sobre o Projeto 🔍
+Nesse projeto foi necessário desenvolver uma *API*, onde é possível procurar e encontrar funcionários da empresa Peoples com seus devidos dados.
 
-The studies with this project started on <ins>**03/23/2021**</ins> and ended on <ins>**04/12/2021**</ins>.
+Os estudos com este projeto foram iniciados em <ins>**23/03/2021**</ins> e foram finalizados em <ins>**12/04/2021**</ins>.
 <br>
 <br>
 <br>
 <div id='process'/>
 
-## Development Process 📈
-This project was divided into a few sprints to be able to organize it properly throughout the development process.
+## Processo de Desenvolvimento 📈
+Este projeto foi dividido em algumas sprints para conseguir organiza-lo devidamente durante todo o processo de desenvolvimento.
 
-There will be a total of 3 development sprints:
+Serão, ao todo, 3 sprints de desenvolvimento:
 
 
-* _**SPRINT 1 - <ins>DATABASE**_</ins> 🎲<br>
-Sprint responsible for developing the modeling of a relational database, in this case, *Microsoft SQL Server* will be used. The modeling will have the *conceptual model*, *logical* and *physical*. The part of the Scripts will be used the segregations **DDL** (Creating tables), **DML** (Inserting records in tables) and **DQL** (Selection and reading of data) for the configuration of DATABASE according to the models.
+* _**SPRINT 1 - <ins>BANCO DE DADOS**_</ins> <br>
+Sprint responsável pelo desenvolvimento da modelagem de um banco de dados relacional, nesse caso, será utilizado o *SQL Server da Microsoft*. A modelagem contará com o *modelo conceitual*, *lógico* e *físico*. A parte dos Scripts será utilizado as segregações **DDL** (Criação de tabelas), **DML** (Inserção de registros nas tabelas) e o **DQL** (Seleção e leitura dos dados) para a configuração do BANCO DE DADOS seguindo os modelos.
 
 
 * _**SPRINT 2 - <ins>BACK-END**_</ins> 🔙<br>
-Sprint responsible for the development of the entire structure behind the application, where **C#** was used as the *main language* for this project which also had other technologies and resources for its development, such as: **.NET**, the **WEB API** and among others *Frameworks* and *Models*.
+Sprint responsável pelo desenvolvimento de toda a estrutura por trás da aplicação, onde foi utilizado o **C#** como a *principal linguagem* para este projeto que também possuiu outras tecnologias e recursos para o seu desenvolvimento, tais quais: **.NET**, o **WEB API** e entre outros *Frameworks* e *Modelos*.
 
 
-* _**SPRINT 3 - <ins>POSTMAN**_</ins> 📰 <br>
-Sprint responsible for the development of the collections organization within **POSTMAN**, which is where we receive the *requests* made in the BACK-END and which is *returned* to us by the POSTMAN program the required values.
+* _**SPRINT 3 - <ins>POSTMAN**_</ins> 📰<br>
+Sprint responsável pelo desenvolvimento da organização das collections dentro do **POSTMAN**, que é onde recebemos as *requisições* feitas no BACK-END e que é *retornado* para nós pelo programa POSTMAN os valores requeridos.
 <br>
 <div id = "tec"/>
 
-## Technologies Used 🤖
-Here are all the technologies (both programs used, as well as methods and good practices) that have been used and applied throughout the project process.
+## Tecnologias Utilizadas 🤖
+Aqui são todas as tecnologias (tanto programas utilizados, quanto métodos e boas práticas) que foram usados e aplicados durante todo o processo do projeto.
 
-* _**TIME MANAGEMENT**_ ⏱️
-  * **<ins>Trello**</ins> : Program used for organizing tasks.
+* _**GERENCIAMENTO DE TEMPO**_ ⏱️
+  * **<ins>Trello**</ins> : Programa utilizado para a organização de tarefas.
 
 <br>
 
-* _**DATABASE**_ 🎲
-   * **<ins> Microsoft SQL Server**</ins> : Relational database management system (DBMS);
-   * **<ins>SQL Server Management Studio**</ins> : Software used to be able to connect with the type of SQL (SSMS);
-   * **<ins>DDL**</ins> : Data Definition Language that is used to create, modify and remove tables in the Database;
-   * **<ins>DML**</ins> : Data Manipulation Language that is used to insert, update and delete tables and information in the Database;
-   * **<ins>DQL**</ins> : Data query language that is used to select tables in the database;
+* _**BANCO DE DADOS**_ 🎲
+  * **<ins>Microsoft SQL Server**</ins> : Sistema de gerenciamento de banco de dados relacional (SGBD);
+  * **<ins>SQL Server Management Studio**</ins> : Software utilizado para conseguir se conectar com o tipo de SQL (SSMS);
+  * **<ins>DDL**</ins> : Linguagem de Definição de Dados que é utilizado para criar, modificar e remover tabelas no Banco de Dados;
+  * **<ins>DML**</ins> : Linguagem de Manipulação de Dados que é utilizado para inserir, atualizar e deletar tabelas e informações no Banco de Dados;
+  * **<ins>DQL**</ins> : Linguagem de Consulta de dados que é utilizado para selecionar tabelas no Banco de Dados;
 
 <br>
 
 * _**BACK-END**_ 🔙
-  * **<ins>Scrum Methodology**</ins> : Methodology used to separate tasks into scopes (sprints), such as the DATABASE, BACK-END and POSTMAN;
-  * **<ins>PascalCase and camelCase**</ins> : Good practices used to organize the code better visually;
-  * **<ins>C# Language**</ins> : Main programming language used in the project's BACK-END;
-  * **<ins>.NET**</ins> : Platform framework that offered a standard library, a compiler and a "virtual machine" for the development of the entire project;
-  * **<ins>Microsoft Visual Studio**</ins> : Integrated development environment (IDE);
-  * **<ins>API**</ins> : Set of programming instructions that allows different software or applications to connect;
-  * **<ins>SQL Injection**</ins> : Basic prevention against SQL Injection;
-  * **<ins>Implementation of DATABASE**</ins> : Merger of DATABASE with BACK-END;
-  * **<ins>POSTMAN**</ins> : Tool that supports the documentation of requests made by the API;
+  * **<ins>Metodologia Scrum**</ins> : Metodologia utilizado para separar as tarefas em escopos (sprints), como o BANCO DE DADOS, o BACK-END e o POSTMAN;
+  * **<ins>PascalCase e camelCase**</ins> : Boas práticas utilizadas para organizar visualmente melhor o código;
+  * **<ins>Linguagem C#**</ins> : Principal linguagem de programação utilizada no BACK-END do projeto;
+  * **<ins>.NET**</ins> : Framework de plataforma que ofereceu uma biblioteca padrão, um compilador e uma "máquina virtual" para desenvolvimento de todo o projeto;
+  * **<ins>Microsoft Visual Studio**</ins> : Ambiente de desenvolvimento integrado (IDE);
+  * **<ins>API**</ins> : Conjunto de instruções de programação que permite que softwares ou aplicativos diferentes se conectem;
+  * **<ins>SQL Injection**</ins> : Prevenção básica contra SQL Injection;
+  * **<ins>Implementação do BANCO DE DADOS**</ins> : Fusão do BANCO DE DADOS com o BACK-END;
+  * **<ins>POSTMAN**</ins> : Ferramenta que dá suporte à documentação das requisições feitas pela API;
 <br>
 <div id="contact"/>
 
-## Contact! 🎉
+## Entre em Contato! 🎉
 [![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Apolinário-%231572B6?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luqonhas/)](https://www.linkedin.com/in/luqonhas/)
 ![Gmail Badge](https://img.shields.io/badge/-apolinariodev@gmail.com-CC2927?style=flat-square&logo=Gmail&logoColor=white)
